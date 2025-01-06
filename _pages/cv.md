@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Resume"
-permalink: /cv/
+permalink: /resume/
 author_profile: true
 redirect_from:
   - /resume
@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* MFFinTech. University of Hong Kong, 2024.9 - 2025.7
+* Bachelor of Science. Hong Kong Polytechnic University, 2020.9 - 2024.6
 
 Work experience
 ======
