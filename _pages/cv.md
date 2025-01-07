@@ -11,20 +11,21 @@ redirect_from:
 
 Education
 ======
-### The University of Hong Kong  
-**Master of Finance in Financial Technology**  
-*Hong Kong, Sep 2024 – Jun 2025*
+* ### The University of Hong Kong
+  * Hong Kong, Sep 2024 – Jun 2025*
+  * Master of Finance in Financial Technology
 
-### The Hong Kong Polytechnic University  
-**Bachelor of Science in Internet and Multimedia Technologies**  
-*Hong Kong, Sep 2020 – Jun 2024*  
-- GPA Rank: Top 10%  
-- Minor in Applied Mathematics  
-- Relevant Courses: Computer Programming, Engineering Economics, Calculus and Linear Algebra, Probability & Statistics, Mathematics I & II, Big Data Analytics, Stochastic Process, Markov Chain, etc.
+
+* ### The Hong Kong Polytechnic University
+  * Hong Kong, Sep 2020 – Jun 2024
+  * Bachelor of Science in Internet and Multimedia Technologies (Minor in Applied Mathematics )
+  * GPA Rank: Top 10%
+  * Relevant Courses: Computer Programming, Engineering Economics, Calculus and Linear Algebra, Probability & Statistics, Mathematics I & II, Big Data Analytics, Stochastic Process, Markov Chain, etc.
 
 Internship Experience
 ======
-* **Citi Bank**|Quantitative Research Department    Hong Kong, July 2024-Sep 2024
+* ### Citi Bank | Quantitative Research Department
+  * Hong Kong, July 2024-Sep 2024
   * **Asset Allocation:** Applied Markowitz's Modern Portfolio Theory to optimize asset allocation, focusing on maximizing returns while minimizing risk.
   * **Enhanced Black-Litterman Model:** Improved current pricing model by Black-Litterman model, incorporating more accurate market views and adjusting prior assumptions to better reflect real-world conditions.
   * **Automated Data Collection and Management:** Developed a web scraping tool to automatically collect trading data from major exchanges; implemented database management practice to ensure data accuracy and integrity.
