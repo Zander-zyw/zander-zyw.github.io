@@ -11,8 +11,16 @@ redirect_from:
 
 Education
 ======
-* MFFinTech. University of Hong Kong, 2024.9 - 2025.7
-* Bachelor of Science. Hong Kong Polytechnic University, 2020.9 - 2024.6
+### The University of Hong Kong  
+**Master of Finance in Financial Technology**  
+*Hong Kong, Sep 2024 – Jun 2025*
+
+### The Hong Kong Polytechnic University  
+**Bachelor of Science in Internet and Multimedia Technologies**  
+*Hong Kong, Sep 2020 – Jun 2024*  
+- GPA Rank: Top 10%  
+- Minor in Applied Mathematics  
+- Relevant Courses: Computer Programming, Engineering Economics, Calculus and Linear Algebra, Probability & Statistics, Mathematics I & II, Big Data Analytics, Stochastic Process, Markov Chain, etc.
 
 Internship Experience
 ======
